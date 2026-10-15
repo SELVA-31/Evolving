@@ -1,5 +1,7 @@
 # Roadmap · 01 Oct – 27 Dec 2026
 
+> ⏸ **Paused on 15 Oct 2026, before Day 1.** Nothing is cancelled. On resume, all dates shift: Week 0 starts on the resume date and every sprint moves by the same number of days.
+
 **Identity:** System integrator (hardware + software) → application-specific hardware engineer.
 **Time:** 3 h/day, every day. Weekday backlog → cleared on Sunday with extra hours.
 **Tracks:** Hardware (analog → BMS) ~12 h/week · Computer vision ~6 h/week · Docs + English ~3 h/week.

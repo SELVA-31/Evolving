@@ -1,5 +1,7 @@
 # Evolving · Engineering Lab Notebook
 
+> ⏸ **Status: paused (15 Oct 2026).** The plan is kept as-is and will resume with re-dated sprints.
+
 A 12-week public lab notebook (01 Oct – 27 Dec 2026) from a system integrator's view:
 **analog electronics → battery management systems**, and **computer vision**, built from prerequisites with measured results.
 
@@ -26,7 +28,7 @@ A 12-week public lab notebook (01 Oct – 27 Dec 2026) from a system integrator'
 
 | Sprint | Dates | Hardware | CV |
 |---|---|---|---|
-| W0 Setup | 01 – 04 Oct | 🟨 | 🟨 |
+| W0 Setup | 01 – 04 Oct | ⏸ | ⏸ |
 | S1 | 05 – 18 Oct | ⬜ | ⬜ |
 | S2 | 19 Oct – 01 Nov | ⬜ | ⬜ |
 | S3 | 02 – 15 Nov | ⬜ | ⬜ |
